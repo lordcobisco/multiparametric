@@ -1,0 +1,9 @@
+LIBRARY isInside_mex.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
+emlrtMexFcnProperties
+isInside
+isInside_initialize
+isInside_terminate
+isInside_atexit
